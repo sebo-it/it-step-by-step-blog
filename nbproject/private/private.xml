@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="PHP_project_groups">
+            <file>file:/D:/laragon/www/it-step-by-step-blog/app/Http/Controllers/BlogPostsController.php</file>
+            <file>file:/D:/laragon/www/it-step-by-step-blog/resources/views/layout.blade.php</file>
+            <file>file:/D:/laragon/www/it-step-by-step-blog/routes/web.php</file>
+            <file>file:/D:/laragon/www/it-step-by-step-blog/resources/views/blogPosts/index.blade.php</file>
+            <file>file:/D:/laragon/www/it-step-by-step-blog/resources/views/blogPosts/edit.blade.php</file>
+            <file>file:/D:/laragon/www/it-step-by-step-blog/resources/views/blogPosts/create.blade.php</file>
+            <file>file:/D:/laragon/www/it-step-by-step-blog/app/Http/Controllers/CategoriesController.php</file>
+            <file>file:/D:/laragon/www/it-step-by-step-blog/resources/views/blogPosts/show.blade.php</file>
+            <file>file:/D:/laragon/www/it-step-by-step-blog/database/seeds/PostsSeeder.php</file>
+        </group>
+    </open-files>
+</project-private>
