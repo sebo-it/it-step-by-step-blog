@@ -1,0 +1,8 @@
+# backend environment
+.env
+
+# frontend dependencies
+/node_modules
+
+# backend dependencies
+/vendor
