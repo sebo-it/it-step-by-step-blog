@@ -2,6 +2,8 @@
 
 Own CMS based on Laravel and Bootstrap frameworks.
 
+If You would test admin profile, send me an email.
+
 Interesting elements:
 - authorization,
 - CRUD,
